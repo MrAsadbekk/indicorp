@@ -788,6 +788,7 @@ main {
   letter-spacing: 0.01em;
   color: #000000;
   margin-bottom: 70px;
+  cursor: pointer;
 }
 .user-btn {
   margin: 0;
